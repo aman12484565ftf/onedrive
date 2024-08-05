@@ -32,7 +32,7 @@ export default function App() {
           }
         ></Route>
         <Route path="/about" element={<About />}></Route>
-        <Route path="/suggestion-box" element={<SuggestionBox />}></Route>
+        <Route path="/suggestion-box " element={<SuggestionBox />}></Route>
         <Route path="/thank-you" element={<ThankYou />}></Route>
         <Route path="/cancelled" element={<Cancelled />}></Route>
         <Route path="*" element={<Error />}></Route>
