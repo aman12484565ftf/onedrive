@@ -39,12 +39,12 @@ export default function Footer() {
       <p className="text-center px-5 mt-8 text-xs ">
         Invoicer is built by{" "}
         <a
-          href="https://tsbsankara.com"
+          href="/"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          Thomas Sankara
+          Team Aman
         </a>
       </p>
     </>
