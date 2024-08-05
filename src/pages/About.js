@@ -11,8 +11,7 @@ export default function About() {
               About Invoicer
             </h1>
             <p className="text-slate-700 text-center text-xl lg:w-2/3 lg:mx-auto">
-              Invoicer is an Invoicing application designed and built by Thomas
-              Sankara, whose main purpose is to - as the name suggests - create
+              Invoicer is an Invoicing application designed and built by Aman Sharma & Akhshat, whose main purpose is to - as the name suggests - create
               and send invoices to clients, because this is something I've
               struggled with before. I hope it helps you as well.
             </p>
