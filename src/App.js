@@ -8,8 +8,8 @@ import ThankYou from "./pages/ThankYou";
 import Cancelled from "./pages/Cancelled";
 
 export default function App() {
-  // const { user } = useContext(AuthContext);
-  const user = false;
+  const { user } = useContext(AuthContext);
+  // const user = false;
 
   return (
     <BrowserRouter>
