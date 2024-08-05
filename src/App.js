@@ -9,7 +9,7 @@ import Cancelled from "./pages/Cancelled";
 
 export default function App() {
   // const { user } = useContext(AuthContext);
-  const user = true;
+  const user = false;
 
   return (
     <BrowserRouter>
